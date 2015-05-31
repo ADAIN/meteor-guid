@@ -1,7 +1,7 @@
 Package.describe({
   name: 'adain:meteor-guid',
   summary: 'guid for meteor https://github.com/dandean/guid',
-  version: '1.0.0',
+  version: '1.0.1',
   git: 'https://github.com/ADAIN/meteor-guid.git'
 });
 
